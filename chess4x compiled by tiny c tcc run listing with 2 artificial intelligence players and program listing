@@ -1,0 +1,1622 @@
+ 
+:: initializing oneAPI environment ...
+   bash: BASH_VERSION = 5.2.21(1)-release
+   args: Using "$@" for setvars.sh arguments: 
+:: compiler -- latest
+:: debugger -- latest
+:: mpi -- latest
+:: umf -- latest
+:: oneAPI environment initialized ::
+ 
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~$ ls chess*
+ chess5q        'chess_ai_pretrain_notebook (2).zip'   chess.pli
+ chess5q.f       chessai.py                            chess_types.mod
+ chessai2.html   chessaiz.html                         chess_with_stockfish.zip
+ chessai4.html   chess.cpp                             chessyyy.py
+ chessai.html    chesslearn.py                         chessz.py.save
+ chess_ai.mod    chess_logic.mod
+
+chessaiy:
+a.out  fortday  fortday.f  fortday.s  fortdays  nano.52271.save
+
+chessjava:
+check_detection_java.zip  ChessMetaTrainer.java         move_generator_java.zip
+chess_meta_java.zip       full_move_generator_java.zip  special_moves_java.zip
+ChessMetaTrainer.class    meta_memory.json
+
+chessjavastockfish:
+chessjavastockfish.java
+
+chesspretrainai:
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~$ cd Downloads
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ ls chess*
+ chess1.pl   'chess_ai_pretrain_notebook (1).zip'   chess_meta_java.zip
+ chess1.plc   chess_ai_pretrain_notebook.zip
+
+chessait:
+'chained_selfplay_chess_ai (2).zip'   dual_ai_chess_game.py
+ chained_selfplay_chess_ai.py         __pycache__
+ chessnet_selfplay.pth                test_chessnet_vs_stockfish.py
+
+chesspretrainai:
+chess_ai_pretrain_notebook.ipynb  chess_ai_pretrain_notebook.zip
+
+chessrust:
+Cargo.lock  Cargo.toml  src  target
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ ls
+ 008.-ian-ajzenszmidt_redacted.pdf
+ 100dooors.f90
+ 100dooors.s
+ 117850_21736909-Wage-Thesis.pdf
+ 1989-26.pdf
+'2025-07-22 NDIA PACE - Support Coordinator Progress Report v2.docx'
+ 3dchess2.f
+ 3dchess.f
+ 3dchessgrok
+ 3dchessgrok22.f
+ 3dchessgrok2.f
+ 3dchessgrok.f
+ 3dchx1.f
+ 3dchx3.f.save
+ 421
+ 421runnable
+ 421.zip
+ 436
+ 436run
+ 436run.f
+ 436.zip
+ 476
+ 476.zip
+ 487
+ 487.zip
+ 493
+ 493run.f
+ 493.zip
+ 495
+ 495run.f
+ 495.zip
+ 4VklWx6L.ppm.part
+ 653.zip
+ 6.Mr.Ian.Ajzenszmidt.pdf
+ 9780128165270.pdf
+ AI_Refutation_Infoworld_METR.pdf
+ AI_Refutation_LATEX.tex
+ AI_Refutation_With_Bibliography.md
+ AI_Refutation_With_Bibliography.pdf
+ a.out
+ assets
+ ‘Bigbox’retailerpricesetting-1.pdf
+ ‘Bigbox’retailerpricesetting.pdf
+ build.rs
+ Cargo.toml
+ chainchess
+ chess1.pl
+ chess1.plc
+'chess_ai_pretrain_notebook (1).zip'
+ chess_ai_pretrain_notebook.zip
+ chessait
+ chess_meta_java.zip
+ chesspretrainai
+ chessrust
+ clim2
+ climate_model
+ climate_model.f90
+ CMakeCache.txt
+ CMakeFiles
+ cmake_install.cmake
+ cnr.f
+ coarray_array_multiplication2.f90
+ coarray_array_multiplication.f90
+ CTestTestfile.cmake
+ cubic_f90.f90
+ curl-8.14.0
+ curl-8.14.0.tar.gz
+ DartConfiguration.tcl
+ dawson_enhanced
+ dawson_enhanced.f90
+ dawson_table.csv
+ db
+ deepseek_python_20250729_15da16.py
+ demo.f90
+ demoms
+ departments.dat
+ departments_large.csv
+ departments_small.csv
+ django_ninja_demo.zip
+ docs
+ driver.f90
+ eduhub
+ eduhub_project_final.zip
+ eduhub_project_updated.zip
+ eduhub_project.zip
+ emfield_extend.f90
+ employees.dat
+ employees_large.csv
+ employees_small.csv
+ e.txt
+'example7_5_forecast_skill(1).tex'
+'example7_5_forecast_skill(2).tex'
+ example7_5_forecast_skill.aux
+ example7_5_forecast_skill.log
+ example7_5_forecast_skill.tex
+ Example7_5_Skill_Temperature_Forecasts.pdf
+ examples
+ example.txt
+ f2023_demo.f90
+ f2023demo.f90
+ f2023test
+ f77_database.f
+ fbsd
+ fill_weather_linear.f90
+ fmodpy-1.7.4
+ fmodpy-1.7.4.tar.gz
+ fmodpy-1.7.4.tar.gz.1
+ fncurses
+ fortran
+ fortran77_linear_regression_ascii_plot.pdf
+ fortran_blockchain_sql_demo.zip
+'fortran-compiler_get-started-guide_2025.1-767260-849047 (1).pdf'
+ fortran-compiler_get-started-guide_2025.1-767260-849047.pdf
+ fortran_editor.f90
+ fortran_nocurses_pure
+ fortran_nocurses_pure.zip
+ fortran_only_simulation_fixed.zip
+ fortran_only_simulation.zip
+ fortran_text_editor.f90
+ fortran_text_editor_ncurses_full.zip
+ fortran_text_editor_package_v2
+ fortran_text_editor_package_v2.zip
+ fortran_text_editor_package_v3.zip
+ fortran_text_editor_package_v5.zip
+ fortran_text_editor.txt
+ fortran_text_editor_user_manual-1.pdf
+ fortran_text_editor_user_manual.pdf
+ fractional_knot_animation.gif
+ fractional_knot_invariant.py
+ full_knot_invariant_program.py
+ fullncurses
+ fullwordprocessor2
+ fword
+ fword_gui
+ fword_gui.zip
+ fword_terminal.zip
+'gcc-13.4.0(1).tar.gz'
+ gcc-13.4.0.tar.gz
+ gnucobol-3.2
+ gnucobol-3.2.tar.lz
+'google-chrome-stable_current_amd64(1).deb'
+'google-chrome-stable_current_amd64(2).deb'
+'google-chrome-stable_current_amd64(3).deb'
+'google-chrome-stable_current_amd64(4).deb'
+'google-chrome-stable_current_amd64(5).deb'
+ google-chrome-stable_current_amd64.deb
+ gtk-3.24.49.tar.xz
+ hash_log.txt
+ heat
+ heat2d_parallel
+ heat2d_parallel_demo_corrected.zip
+ heat2d_parallel_demo.zip
+ hello_mpi_coarray2
+ hello_mpi_coarray2.f90
+ hello_mpi_coarray.f90
+ HRM-main
+ HRM-main.zip
+ humanthought.f
+ hyper.f
+ hypersparse
+ hypersparse.f
+ input.txt
+ intel-fortran-compiler-2025.1.1.10_offline.sh
+'intel-fortran-compiler-2025.1.1.11_offline(1).exe'
+ intel-fortran-compiler-2025.1.1.11_offline.exe
+'intel-fortran-compiler-2025.2.0.534_offline (1).sh'
+'intel-fortran-compiler-2025.2.0.534_offline (2).sh'
+ intel-fortran-compiler-2025.2.0.534_offline.sh
+ interpolation_demo
+ interpolation_demo.zip
+ INVOICE_N323556.PDF
+ ispp-0.1.6.tgz
+ kibudim
+ kibudim.cob
+ kibudim.csv
+ kibudim_package.zip
+ kibudim_table.xlsx
+ KIBUDIM.TXT
+ kin.py
+ kolmogorov_smirnov.mod
+ learn2learn-0.2.0
+ learn2learn-0.2.0.tar.gz
+ learn2learn-maml-rs
+ learn2learn-master
+ learn2learn-master.zip
+'Lewis Rassaby - Bio - Copy.pdf'
+ libnetcdff.settings
+ libsrc
+ linear_f77.f
+ linear_regression_ascii_fortran_summary.pdf
+ linear_regression_fortran_demo.pdf
+ LinearSystemSolver.txt
+ ls-lR.gz
+ main.f90
+ main.o
+ main.zip
+ Makefile
+ maml.py
+ maml_rust_modular.rs
+ mansfield_weather_comparison.pdf
+ meta_chess_benchmark.pdf
+ metadata.c
+ mini-cpp
+ mini-pi.cpp
+ module
+ MPFUN2020-master
+ MPFUN2020-master.zip
+ mpi_array_mult
+ mpi_array_mult.f90
+ myflib.so
+ my_fortran_lib
+ my_fortran_lib.f90
+ my_fortran_lib_OLD
+ myproject
+ ncurses_full
+ netCDF-FortranConfig.cmake
+ netCDF-FortranConfigVersion.cmake
+ netcdf-fortran-main
+ netcdf-fortran-main.zip
+ netcdf-fortran.pc
+'New Patient Registration Form.pdf'
+ nf03_test
+ nf03_test4
+ nf-config
+ nf_test
+ nf_test4
+'NOA ending 30-06-2024.pdf'
+ norm
+ NormalizedValuesModern.f90
+ NormalizeValues.f
+ normmodern
+ output.aux
+ output.html
+ output.log
+ output.md
+ output.pdf
+ output.rtf
+ output.tex
+ patents-supplement-1241.pdf
+ pie_chart_demo.png
+ pi.txt
+ pksrun
+ pli-1.3.1.zip
+'pli-1.3.2(1).tgz'
+ pli-1.3.2.tgz
+ pli-1.4.0
+ pli-1.4.0a.tgz
+ pli-1.4.0.tgz
+ pli-1.4.0.zip
+ pli-1.zH_Pa-yg.3.1.zip.part
+ plot_interpolation.py
+ plot_weather_fill.py
+ poly_driver
+ polymod.mod
+ polynomial_driver_package.tar.gz
+'Print Invoice N323556.pdf'
+'pspp-0.10.0(1).tar.gz'
+ pspp-0.10.0.tar.gz
+'pspp-2.0.1(1).tar.gz'
+ pspp-2.0.1.tar.gz
+ pspp-2.0.1.tar.gz.sig
+ psycopg2-2.9.10
+ psycopg2-2.9.10.tar.gz
+ psycopg2-master.zip
+ pyjob.py
+ rdb
+ README.txt
+ regression_wilke_fortran_demo.pdf
+ relational_db_bundle.tar.gz
+ relational_db_csv.f90
+ relational_db_enhanced.f90
+ relational_db.f
+ relational_db_final_enhanced.f90
+ results.csv
+ result.txt
+ run.f90
+ run.sh
+ rust_fortran_demo
+ rust_fortran_demo_enhanced.zip
+ rust_fortran_demo.zip
+ rust-fortran-master
+ rust-fortran-master.zip
+ rust_shooter_game_full
+'rust_shooter_game_full(1).zip'
+ rust_shooter_game_full_fixed
+'rust_shooter_game_full_fixed(1).zip'
+'rust_shooter_game_full_fixed (2)'
+'rust_shooter_game_full_fixed(2).zip'
+'rust_shooter_game_full_fixed(3).zip'
+'rust_shooter_game_full_fixed(4).zip'
+'rust_shooter_game_full_fixed(5)'
+'rust_shooter_game_full_fixed(5).zip'
+ rust_shooter_game_full_fixed.zip
+ rust_shooter_game_full.zip
+ rust_text_editor
+ rust_text_editor.rs
+ schooldb
+ school_db_demo
+ school_db_demo_improved
+ school_db_demo_improved_final.tar.gz
+ school_db_demo_improved_fixed.tar.gz
+ school_db_demo_improved.tar.gz
+ school_db_demo.tar.gz
+ self_training_chess.py
+ shootgameb
+ sprite3noassets
+'sprite3_no_assets(1).zip'
+'sprite3_no_assets(2).zip'
+'sprite3_no_assets(3)'
+'sprite3_no_assets(3).zip'
+ sprite3_no_assets_updated.zip
+ sprite3_no_assets.zip
+ sprite3.zip
+ src
+ src.f90
+ sum2.py
+ tcc-0.9.24.tar.bz2
+ Testing
+ test.mod
+ test_pks1.f90
+ test_pks1.o
+ test_pks2.f90
+ test_pks2.o
+ thunderbird.tmp
+ tinycc-mirror-repository-mob
+ tinycc-mirror-repository-mob.zip
+ tmp
+ toolbox.f90
+ toolbox.mod
+ toolbox.o
+'tsetup.4ewdylgI.5.15.4.tar(1).xz.part'
+'tsetup.5.15.4.tar(1).xz'
+ tsetup.5.15.4.tar.xz
+ tsetup.Ilug13H6.5.15.4.tar.xz.part
+ v5
+ Validated_Pathology_Summary_and_Doctor_Letter.docx
+ weatherforecastmp4.py
+ weather_interpolation_demo.zip
+ weekday.f90
+ weightedsum
+ weightedsum.f
+ weightedsum.o
+ wget-log
+'What is important to you - will and preferences worksheet-1-1.pdf'
+'What is important to you - will and preferences worksheet-1.pdf'
+'What is important to you - will and preferences worksheet.pdf'
+'y-cruncher v0.8.6.9545-dynamic.tar.xz'
+ ZbzSJxKq.zip.part
+ zoom_amd64.deb
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ nano chesstinycc.c
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ tcc chesstinycc.c -o chesstiny
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ ./chesstiny
+tcc Chess — SAN, castling, en passant, iterative deepening + killers, threefold repetition.
+
+   a b c d e f g h
+8  r n b q k b n r 8
+7  p p p p p p p p 7
+6  . . . . . . . . 6
+5  . . . . . . . . 5
+4  . . . . . . . . 4
+3  . . . . . . . . 3
+2  P P P P P P P P 2
+1  R N B Q K B N R 1
+   a b c d e f g h
+
+1. Nc3
+1... c6
+2. Rb1
+2... Qb6
+3. a3
+3... Qa6
+4. Ra1
+4... Qb6
+5. Nh3
+5... Qa5
+6. b4
+6... Qe5
+7. d4
+7... Qe6
+8. Rb1
+8... Qc4
+9. Qd3
+9... Qxd3
+10. cxd3
+10... h5
+11. Rb2
+11... Na6
+12. b5
+12... cxb5
+13. Nxb5
+13... d6
+14. Ng5
+14... Bf5
+15. Kd1
+15... Bg6
+16. Ke1
+16... d5
+17. Bf4
+17... Bf5
+18. Rb3
+18... Bg6
+19. Nc3
+19... O-O-O
+20. Nb5
+20... Kd7
+21. Nxa7
+21... b5
+22. Rxb5
+22... Ra8
+23. Rxd5+
+23... Ke8
+24. Nc6
+24... Rc8
+25. Na7
+25... Ra8
+26. Nc6
+26... Rc8
+27. Na7
+27... Ra8
+Draw by threefold repetition.
+
+   a b c d e f g h
+8  r . . . k b n r 8
+7  N . . . p p p . 7
+6  n . . . . . b . 6
+5  . . . R . . N p 5
+4  . . . P . B . . 4
+3  P . . P . . . . 3
+2  . . . . P P P P 2
+1  . . . . K B . R 1
+   a b c d e f g h
+
+White is better (300 cp).
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ ./chesstiny
+tcc Chess — SAN, castling, en passant, iterative deepening + killers, threefold repetition.
+
+   a b c d e f g h
+8  r n b q k b n r 8
+7  p p p p p p p p 7
+6  . . . . . . . . 6
+5  . . . . . . . . 5
+4  . . . . . . . . 4
+3  . . . . . . . . 3
+2  P P P P P P P P 2
+1  R N B Q K B N R 1
+   a b c d e f g h
+
+1. Nc3
+1... c6
+2. Rb1
+2... Qb6
+3. a3
+3... Qa6
+4. Ra1
+4... Qb6
+5. Nh3
+5... Qa5
+6. b4
+6... Qe5
+7. d4
+7... Qe6
+8. Rb1
+8... Qc4
+9. Qd3
+9... Qxd3
+10. cxd3
+10... h5
+11. Rb2
+11... Na6
+12. b5
+12... cxb5
+13. Nxb5
+13... d6
+14. Ng5
+14... Bf5
+15. Kd1
+15... Bg6
+16. Ke1
+16... d5
+17. Bf4
+17... Bf5
+18. Rb3
+18... Bg6
+19. Nc3
+19... O-O-O
+20. Nb5
+20... Kd7
+21. Nxa7
+21... b5
+22. Rxb5
+22... Ra8
+23. Rxd5+
+23... Ke8
+24. Nc6
+24... Rc8
+25. Na7
+25... Ra8
+26. Nc6
+26... Rc8
+27. Na7
+27... Ra8
+Draw by threefold repetition.
+
+   a b c d e f g h
+8  r . . . k b n r 8
+7  N . . . p p p . 7
+6  n . . . . . b . 6
+5  . . . R . . N p 5
+4  . . . P . B . . 4
+3  P . . P . . . . 3
+2  . . . . P P P P 2
+1  . . . . K B . R 1
+   a b c d e f g h
+
+White is better (300 cp).
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ ./chesstiny
+tcc Chess — SAN, castling, en passant, iterative deepening + killers, threefold repetition.
+
+   a b c d e f g h
+8  r n b q k b n r 8
+7  p p p p p p p p 7
+6  . . . . . . . . 6
+5  . . . . . . . . 5
+4  . . . . . . . . 4
+3  . . . . . . . . 3
+2  P P P P P P P P 2
+1  R N B Q K B N R 1
+   a b c d e f g h
+
+1. Nc3
+1... c6
+2. Rb1
+2... Qb6
+3. a3
+3... Qa6
+4. Ra1
+4... Qb6
+5. Nh3
+5... Qa5
+6. b4
+6... Qe5
+7. d4
+7... Qe6
+8. Rb1
+8... Qc4
+9. Qd3
+9... Qxd3
+10. cxd3
+10... h5
+11. Rb2
+11... Na6
+12. b5
+12... cxb5
+13. Nxb5
+13... d6
+14. Ng5
+14... Bf5
+15. Kd1
+15... Bg6
+16. Ke1
+16... d5
+17. Bf4
+17... Bf5
+18. Rb3
+18... Bg6
+19. Nc3
+19... O-O-O
+20. Nb5
+20... Kd7
+21. Nxa7
+21... b5
+22. Rxb5
+22... Ra8
+23. Rxd5+
+23... Ke8
+24. Nc6
+24... Rc8
+25. Na7
+25... Ra8
+26. Nc6
+26... Rc8
+27. Na7
+27... Ra8
+Position repeated thrice—draw.
+
+   a b c d e f g h
+8  r . . . k b n r 8
+7  N . . . p p p . 7
+6  n . . . . . b . 6
+5  . . . R . . N p 5
+4  . . . P . B . . 4
+3  P . . P . . . . 3
+2  . . . . P P P P 2
+1  . . . . K B . R 1
+   a b c d e f g h
+
+White is better (300 cp).
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ nano chess4x.c
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ tcc chess4x.c -o chess4x
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ ./chess4x
+tcc Chess — self-play (SAN, castling/EP, ID+killers, FIDE 3-fold, randomized)
+
+   a b c d e f g h
+8  r n b q k b n r 8
+7  p p p p p p p p 7
+6  . . . . . . . . 6
+5  . . . . . . . . 5
+4  . . . . . . . . 4
+3  . . . . . . . . 3
+2  P P P P P P P P 2
+1  R N B Q K B N R 1
+   a b c d e f g h
+
+1. e4
+1... d5
+2. c4
+2... dxe4
+3. Qc2
+3... Nf6
+4. d4
+4... e5
+5. dxe5
+5... Bb4+
+6. Ke2
+6... Bg4+
+7. f3
+7... Qd3+
+8. Qxd3
+8... exd3+
+9. Kd1
+9... d2
+10. fxg4
+10... dxc1=Q+
+11. Kxc1
+11... Nxg4
+12. e6
+12... fxe6
+13. Be2
+13... Nf2
+14. a3
+14... Bd2+
+15. Kc2
+15... g6
+16. Bd3
+16... Be3
+17. b4
+17... Nxh1
+18. Nh3
+18... Nc6
+19. Be4
+19... Bb6
+20. Ng5
+20... Nd4+
+21. Kc3
+21... c5
+22. Bxb7
+22... cxb4+
+23. axb4
+23... Rb8
+24. Ba6
+24... h6
+25. Nf3
+25... Ne2+
+26. Kd2
+26... Nd4
+27. Ra3
+27... O-O
+28. Nh4
+28... Rf6
+29. c5
+29... Bxc5
+30. bxc5
+30... Rxb1
+31. Kd3
+31... Rd1+
+32. Kc3
+32... g5
+33. Bc4
+33... gxh4
+34. Rxa7
+34... Rf7
+35. Ra3
+35... Rh7
+36. Bf1
+36... Kf8
+37. Ra5
+37... Nf5
+38. Ra8+
+38... Kg7
+39. Ra7+
+39... Kg8
+40. Ra8+
+40... Kf7
+41. Ra7+
+41... Kg8
+42. Ra8+
+42... Kg7
+43. Ra7+
+43... Kh8
+44. Ra8+
+44... Kg7
+Loop detected—draw.
+
+   a b c d e f g h
+8  R . . . . . . . 8
+7  . . . . . . k r 7
+6  . . . . p . . p 6
+5  . . P . . n . . 5
+4  . . . . . . . p 4
+3  . . K . . . . . 3
+2  . . . . . . P P 2
+1  . . . r . B . n 1
+   a b c d e f g h
+
+Black is better (-810 cp).
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ ./chess4x
+tcc Chess — self-play (SAN, castling/EP, ID+killers, FIDE 3-fold, randomized)
+
+   a b c d e f g h
+8  r n b q k b n r 8
+7  p p p p p p p p 7
+6  . . . . . . . . 6
+5  . . . . . . . . 5
+4  . . . . . . . . 4
+3  . . . . . . . . 3
+2  P P P P P P P P 2
+1  R N B Q K B N R 1
+   a b c d e f g h
+
+1. h3
+1... c6
+2. d4
+2... f5
+3. e4
+3... e5
+4. exf5
+4... exd4
+5. Qe2+
+5... Qe7
+6. f4
+6... Kd8
+7. b3
+7... Qh4+
+8. Kd1
+8... a5
+9. Bd2
+9... Qg3
+10. Qg4
+10... Qf2
+11. Qe2
+11... Qh4
+12. c3
+12... dxc3
+13. Be3
+13... d6
+14. Bb6+
+14... Kd7
+15. Qe6#
+Black is checkmated. White wins.
+
+   a b c d e f g h
+8  r n b . . b n r 8
+7  . p . k . . p p 7
+6  . B p p Q . . . 6
+5  p . . . . P . . 5
+4  . . . . . P . q 4
+3  . P p . . . . P 3
+2  P . . . . . P . 2
+1  R N . K . B N R 1
+   a b c d e f g h
+
+Roughly equal (100 cp).
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ ./chess4x
+tcc Chess — self-play (SAN, castling/EP, ID+killers, FIDE 3-fold, randomized)
+
+   a b c d e f g h
+8  r n b q k b n r 8
+7  p p p p p p p p 7
+6  . . . . . . . . 6
+5  . . . . . . . . 5
+4  . . . . . . . . 4
+3  . . . . . . . . 3
+2  P P P P P P P P 2
+1  R N B Q K B N R 1
+   a b c d e f g h
+
+1. h3
+1... a5
+2. f3
+2... e5
+3. c4
+3... Qh4+
+4. g3
+4... Qxg3#
+White is checkmated. Black wins.
+
+   a b c d e f g h
+8  r n b . k b n r 8
+7  . p p p . p p p 7
+6  . . . . . . . . 6
+5  p . . . p . . . 5
+4  . . P . . . . . 4
+3  . . . . . P q P 3
+2  P P . P P . . . 2
+1  R N B Q K B N R 1
+   a b c d e f g h
+
+Roughly equal (-100 cp).
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ ./chess4x
+tcc Chess — self-play (SAN, castling/EP, ID+killers, FIDE 3-fold, randomized)
+
+   a b c d e f g h
+8  r n b q k b n r 8
+7  p p p p p p p p 7
+6  . . . . . . . . 6
+5  . . . . . . . . 5
+4  . . . . . . . . 4
+3  . . . . . . . . 3
+2  P P P P P P P P 2
+1  R N B Q K B N R 1
+   a b c d e f g h
+
+1. e4
+1... Nh6
+2. Nf3
+2... g6
+3. d4
+3... c6
+4. c4
+4... c5
+5. Ke2
+5... b5
+6. cxb5
+6... Qa5
+7. Nc3
+7... Qb4
+8. Qb3
+8... Qxb3
+9. axb3
+9... cxd4
+10. Nd1
+10... d6
+11. Bxh6
+11... Bxh6
+12. h3
+12... e5
+13. Rg1
+13... Kd7
+14. b4
+14... Kd8
+15. Ra5
+15... Kc7
+16. Rh1
+16... f5
+17. exf5
+17... gxf5
+18. Ke1
+18... Kb6
+19. Nd2
+19... a6
+20. Nc4+
+20... Ka7
+21. Nxd6
+21... Rf8
+22. Ra1
+22... Bd7
+23. bxa6
+23... Rf6
+24. Nb5+
+24... Bxb5
+25. Bxb5
+25... Rg6
+26. Bf1
+26... f4
+27. Ra2
+27... Kb6
+28. f3
+28... Nc6
+29. Bd3
+29... Nxb4
+30. Bxg6
+30... Nxa2
+31. Bxh7
+31... Kxa6
+32. Bf5
+32... Ka7
+33. Be6
+33... Nb4
+34. Kf1
+34... Re8
+35. Bc4
+35... Ra8
+36. Nf2
+36... Rc8
+37. Ng4
+37... Rxc4
+38. Rh2
+38... Bg7
+39. Kg1
+39... Bh8
+40. Nh6
+40... Nd3
+41. Kf1
+41... Rc1+
+42. Ke2
+42... Nxb2
+43. Kf2
+43... Rc7
+44. Nf5
+44... Nd3+
+45. Ke2
+45... Nb4
+46. Nh6
+46... Kb7
+47. Kf1
+47... Rc2
+48. Nf7
+48... Bg7
+49. Kg1
+49... Na2
+50. g4
+50... Rc1+
+51. Kf2
+51... Nc3
+52. Nd6+
+52... Ka6
+53. Ne4
+53... Ka7
+54. Nxc3
+54... Rxc3
+55. Rh1
+55... Rd3
+56. Rc1
+56... Rd2+
+57. Kf1
+57... Ka8
+58. Kg1
+58... Rd3
+59. Kf2
+59... Rc3
+60. Rxc3
+60... dxc3
+61. g5
+61... c2
+62. Kg1
+62... Bf8
+63. Kg2
+63... Bb4
+64. g6
+64... c1=Q
+65. g7
+65... Qc8
+66. Kf2
+66... Qg8
+67. Kg1
+67... Bd6
+68. Kg2
+68... Ka7
+69. h4
+69... Bb8
+70. Kh3
+70... Ka6
+71. Kh2
+71... Kb7
+72. Kg2
+72... Qh7
+73. Kf1
+73... Ka6
+74. Ke1
+74... Ka5
+75. Kf1
+75... Qg6
+76. Ke1
+76... Bd6
+77. Kf2
+77... Kb6
+78. g8=Q
+78... Qxg8
+White resigns. Black wins.
+
+   a b c d e f g h
+8  . . . . . . q . 8
+7  . . . . . . . . 7
+6  . k . b . . . . 6
+5  . . . . p . . . 5
+4  . . . . . p . P 4
+3  . . . . . P . . 3
+2  . . . . . K . . 2
+1  . . . . . . . . 1
+   a b c d e f g h
+
+Black is better (-1230 cp).
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ cat chess4x.c
+// chesstcc.c — tcc chess engine: Self-play + UCI + Perft
+// Features: SAN, castling, en passant, iterative deepening + killers,
+// FIDE-strict threefold hashing, randomized self-play (disabled in UCI),
+// small opening book (self-play), perft tester.
+//
+// Build: tcc chesstcc.c -O2 -o chesstcc
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include <stdint.h>
+#include <sys/time.h>
+#include <unistd.h>
+#include <ctype.h>
+
+#define MAX_MOVES 256
+#define MAX_PLY   256
+#define INF 1000000000
+
+// 0x88 helpers
+#define OFFBOARD(sq) ((sq) & 0x88)
+#define RANK(sq) ((sq)>>4)
+#define FILE_(sq) ((sq)&7)
+
+typedef struct {
+    unsigned char from, to;
+    char moved, captured, promo;
+    unsigned char is_ep;     // en passant capture
+    unsigned char is_castle; // 1 if castle move
+} Move;
+
+typedef struct { Move list[MAX_MOVES]; int count; } MoveList;
+
+typedef struct {
+    Move mv;
+    char to_was;
+    int prev_side, prev_halfmove, prev_castle, prev_ep;
+} Undo;
+
+// Board/state
+static char board[128];
+static int side = 1; // 1 white, -1 black
+static int ply = 0;
+static int halfmove_clock = 0;
+static Undo ustack[MAX_PLY];
+
+// Castling rights flags
+#define CR_WK 1
+#define CR_WQ 2
+#define CR_BK 4
+#define CR_BQ 8
+static int castle_rights = CR_WK|CR_WQ|CR_BK|CR_BQ;
+
+// En passant target square (0..127) or -1
+static int ep_target = -1;
+
+// Search dirs
+static const int knight_dirs[8] = { 0x21,0x1f,0x12,0x0e,-0x21,-0x1f,-0x12,-0x0e };
+static const int bishop_dirs[4] = { 0x11,0x0f,-0x11,-0x0f };
+static const int rook_dirs[4]   = { 0x10,0x01,-0x10,-0x01 };
+static const int king_dirs[8]   = { 0x10,0x01,-0x10,-0x01,0x11,0x0f,-0x11,-0x0f };
+
+// Killer moves: two per ply
+static Move killer1[MAX_PLY], killer2[MAX_PLY];
+
+// Position hashing for threefold
+static uint64_t pos_hist[4096];
+static int pos_hist_len = 0;
+
+// Flags
+static int RANDOMIZE_PLAY = 1;   // off in UCI
+static int USE_BOOK = 1;         // off in UCI
+
+// Utils
+static int sign(char p){ return (p>='A'&&p<='Z')?1:((p>='a'&&p<='z')?-1:0); }
+static int val(char p){
+    switch(p){
+        case 'P': case 'p': return 100;
+        case 'N': case 'n': return 320;
+        case 'B': case 'b': return 330;
+        case 'R': case 'r': return 500;
+        case 'Q': case 'q': return 900;
+        case 'K': case 'k': return 0;
+        default: return 0;
+    }
+}
+static void clear_board(void){ for(int i=0;i<128;i++) board[i]=OFFBOARD(i)?0:'.'; }
+static void set_initial(void){
+    clear_board();
+    const char *r8="rnbqkbnr", *r1="RNBQKBNR";
+    for(int f=0;f<8;f++){
+        board[0x70+f]=r8[f]; board[0x60+f]='p';
+        board[0x10+f]='P';   board[0x00+f]=r1[f];
+    }
+    side=1; halfmove_clock=0; ply=0;
+    castle_rights=CR_WK|CR_WQ|CR_BK|CR_BQ;
+    ep_target=-1;
+    memset(killer1,0,sizeof(killer1));
+    memset(killer2,0,sizeof(killer2));
+    pos_hist_len = 0;
+}
+static inline void fnv1a_mix(uint64_t *h, uint64_t x){ *h ^= x; *h *= 1099511628211ULL; }
+static int square_of_king(int sgn){
+    for(int sq=0; sq<128; sq++) if(!OFFBOARD(sq)){
+        if(sgn==1 && board[sq]=='K') return sq;
+        if(sgn==-1 && board[sq]=='k') return sq;
+    }
+    return -1;
+}
+static int attacked_by(int sq, int attacker_side){
+    if(attacker_side==1){
+        int a1=sq-0x0f, a2=sq-0x11;
+        if(!OFFBOARD(a1) && board[a1]=='P') return 1;
+        if(!OFFBOARD(a2) && board[a2]=='P') return 1;
+    } else {
+        int a1=sq+0x0f, a2=sq+0x11;
+        if(!OFFBOARD(a1) && board[a1]=='p') return 1;
+        if(!OFFBOARD(a2) && board[a2]=='p') return 1;
+    }
+    for(int i=0;i<8;i++){
+        int t=sq+knight_dirs[i];
+        if(OFFBOARD(t)) continue;
+        if(attacker_side==1 && board[t]=='N') return 1;
+        if(attacker_side==-1 && board[t]=='n') return 1;
+    }
+    for(int i=0;i<4;i++){
+        int d=bishop_dirs[i], t=sq+d;
+        while(!OFFBOARD(t)){
+            char p=board[t];
+            if(p!='.'){
+                if(attacker_side==1 && (p=='B'||p=='Q')) return 1;
+                if(attacker_side==-1 && (p=='b'||p=='q')) return 1;
+                break;
+            }
+            t+=d;
+        }
+    }
+    for(int i=0;i<4;i++){
+        int d=rook_dirs[i], t=sq+d;
+        while(!OFFBOARD(t)){
+            char p=board[t];
+            if(p!='.'){
+                if(attacker_side==1 && (p=='R'||p=='Q')) return 1;
+                if(attacker_side==-1 && (p=='r'||p=='q')) return 1;
+                break;
+            }
+            t+=d;
+        }
+    }
+    for(int i=0;i<8;i++){
+        int t=sq+king_dirs[i];
+        if(OFFBOARD(t)) continue;
+        if(attacker_side==1 && board[t]=='K') return 1;
+        if(attacker_side==-1 && board[t]=='k') return 1;
+    }
+    return 0;
+}
+static int in_check(int s){ int k=square_of_king(s); return (k>=0) && attacked_by(k,-s); }
+
+// EP file if EP capture available to side-to-move; else -1 (FIDE threefold)
+static int ep_file_if_capturable(void){
+    if(ep_target == -1) return -1;
+    int up = (side==1)?0x10:-0x10;
+    int fromL = ep_target - up - 1, fromR = ep_target - up + 1;
+    char P = (side==1)?'P':'p';
+    if(!OFFBOARD(fromL) && board[fromL]==P) return FILE_(ep_target);
+    if(!OFFBOARD(fromR) && board[fromR]==P) return FILE_(ep_target);
+    return -1;
+}
+
+// Hash current position
+static uint64_t position_key(void){
+    uint64_t h = 1469598103934665603ULL;
+    for(int sq=0; sq<128; sq++) if(!OFFBOARD(sq)){
+        char p = board[sq];
+        if(p!='.'){
+            uint64_t x = ((uint64_t)(unsigned char)p << 1) ^ (uint64_t)(sq*1315423911u);
+            fnv1a_mix(&h, x);
+        }
+    }
+    fnv1a_mix(&h, (side==1)?0x9e3779b185ebca87ULL:0xc2b2ae3d27d4eb4fULL);
+    fnv1a_mix(&h, (uint64_t)castle_rights * 0x100000001b3ULL);
+    int epf = ep_file_if_capturable();
+    fnv1a_mix(&h, (uint64_t)((epf+1)&15) * 0x517cc1b727220a95ULL);
+    return h;
+}
+static void pos_hist_push(void){
+    if(pos_hist_len < (int)(sizeof(pos_hist)/sizeof(pos_hist[0]))) pos_hist[pos_hist_len++] = position_key();
+}
+static int is_threefold_now(void){
+    if(pos_hist_len<=0) return 0;
+    uint64_t cur = pos_hist[pos_hist_len-1];
+    int cnt=0;
+    for(int i=0;i<pos_hist_len;i++){ if(pos_hist[i]==cur) cnt++; if(cnt>=3) return 1; }
+    return 0;
+}
+
+static void add_move(MoveList *ml, int from, int to, char promo, char cap, unsigned char is_ep, unsigned char is_castle){
+    Move m; m.from=from; m.to=to; m.promo=promo; m.captured=cap; m.moved=board[from];
+    m.is_ep=is_ep; m.is_castle=is_castle;
+    ml->list[ml->count++]=m;
+}
+
+// Generate moves incl. castling & EP
+static void gen_moves(MoveList *ml){
+    ml->count=0;
+    if(side==1){
+        int e1=0x04,f1=0x05,g1=0x06,d1=0x03,c1=0x02,b1=0x01;
+        if(board[e1]=='K' && !in_check(1)){
+            if((castle_rights&CR_WK)&&board[f1]=='.'&&board[g1]=='.'&&!attacked_by(f1,-1)&&!attacked_by(g1,-1))
+                add_move(ml,e1,g1,0,'.',0,1);
+            if((castle_rights&CR_WQ)&&board[d1]=='.'&&board[c1]=='.'&&board[b1]=='.'&&!attacked_by(d1,-1)&&!attacked_by(c1,-1))
+                add_move(ml,e1,c1,0,'.',0,1);
+        }
+    } else {
+        int e8=0x74,f8=0x75,g8=0x76,d8=0x73,c8=0x72,b8=0x71;
+        if(board[e8]=='k' && !in_check(-1)){
+            if((castle_rights&CR_BK)&&board[f8]=='.'&&board[g8]=='.'&&!attacked_by(f8,1)&&!attacked_by(g8,1))
+                add_move(ml,e8,g8,0,'.',0,1);
+            if((castle_rights&CR_BQ)&&board[d8]=='.'&&board[c8]=='.'&&board[b8]=='.'&&!attacked_by(d8,1)&&!attacked_by(c8,1))
+                add_move(ml,e8,c8,0,'.',0,1);
+        }
+    }
+    for(int sq=0; sq<128; sq++) if(!OFFBOARD(sq)){
+        char p=board[sq];
+        if(p=='.' || sign(p)!=side) continue;
+        if(p=='P' || p=='p'){
+            int up=(p=='P')?0x10:-0x10, start=(p=='P')?1:6, promo_r=(p=='P')?6:1;
+            int fwd=sq+up;
+            if(!OFFBOARD(fwd)&&board[fwd]=='.'){
+                if(RANK(sq)==promo_r) add_move(ml,sq,fwd,(p=='P')?'Q':'q','.',0,0);
+                else{
+                    add_move(ml,sq,fwd,0,'.',0,0);
+                    int f2=fwd+up; if(RANK(sq)==start&&!OFFBOARD(f2)&&board[f2]=='.') add_move(ml,sq,f2,0,'.',0,0);
+                }
+            }
+            int c1=sq+up+1,c2=sq+up-1;
+            if(!OFFBOARD(c1)&&board[c1]!='.'&&sign(board[c1])==-side){
+                if(RANK(sq)==promo_r) add_move(ml,sq,c1,(p=='P')?'Q':'q',board[c1],0,0);
+                else add_move(ml,sq,c1,0,board[c1],0,0);
+            }
+            if(!OFFBOARD(c2)&&board[c2]!='.'&&sign(board[c2])==-side){
+                if(RANK(sq)==promo_r) add_move(ml,sq,c2,(p=='P')?'Q':'q',board[c2],0,0);
+                else add_move(ml,sq,c2,0,board[c2],0,0);
+            }
+            if(ep_target!=-1){
+                if(!OFFBOARD(c1)&&c1==ep_target&&board[c1]=='.') add_move(ml,sq,c1,0,(p=='P')?'p':'P',1,0);
+                if(!OFFBOARD(c2)&&c2==ep_target&&board[c2]=='.') add_move(ml,sq,c2,0,(p=='P')?'p':'P',1,0);
+            }
+            continue;
+        }
+        if(p=='N' || p=='n'){
+            for(int i=0;i<8;i++){ int t=sq+knight_dirs[i]; if(OFFBOARD(t)) continue;
+                if(board[t]=='.'||sign(board[t])==-side) add_move(ml,sq,t,0,board[t],0,0); }
+            continue;
+        }
+        if(p=='B' || p=='b'){
+            for(int i=0;i<4;i++){ int d=bishop_dirs[i],t=sq+d; while(!OFFBOARD(t)){
+                if(board[t]=='.') add_move(ml,sq,t,0,'.',0,0);
+                else { if(sign(board[t])==-side) add_move(ml,sq,t,0,board[t],0,0); break; } t+=d; } }
+            continue;
+        }
+        if(p=='R' || p=='r'){
+            for(int i=0;i<4;i++){ int d=rook_dirs[i],t=sq+d; while(!OFFBOARD(t)){
+                if(board[t]=='.') add_move(ml,sq,t,0,'.',0,0);
+                else { if(sign(board[t])==-side) add_move(ml,sq,t,0,board[t],0,0); break; } t+=d; } }
+            continue;
+        }
+        if(p=='Q' || p=='q'){
+            for(int i=0;i<4;i++){ int d=rook_dirs[i],t=sq+d; while(!OFFBOARD(t)){
+                if(board[t]=='.') add_move(ml,sq,t,0,'.',0,0);
+                else { if(sign(board[t])==-side) add_move(ml,sq,t,0,board[t],0,0); break; } t+=d; } }
+            for(int i=0;i<4;i++){ int d=bishop_dirs[i],t=sq+d; while(!OFFBOARD(t)){
+                if(board[t]=='.') add_move(ml,sq,t,0,'.',0,0);
+                else { if(sign(board[t])==-side) add_move(ml,sq,t,0,board[t],0,0); break; } t+=d; } }
+            continue;
+        }
+        if(p=='K' || p=='k'){
+            for(int i=0;i<8;i++){ int t=sq+king_dirs[i]; if(OFFBOARD(t)) continue;
+                if(board[t]=='.'||sign(board[t])==-side) add_move(ml,sq,t,0,board[t],0,0); }
+            continue;
+        }
+    }
+}
+
+static void make_move(Move m){
+    ustack[ply].mv=m; ustack[ply].to_was=board[m.to]; ustack[ply].prev_side=side;
+    ustack[ply].prev_halfmove=halfmove_clock; ustack[ply].prev_castle=castle_rights; ustack[ply].prev_ep=ep_target;
+    ep_target=-1;
+
+    board[m.to] = m.promo ? m.promo : board[m.from]; board[m.from]='.';
+
+    if(m.is_ep){ if(m.moved=='P') board[m.to-0x10]='.'; else board[m.to+0x10]='.'; }
+
+    if(m.is_castle){
+        if(m.moved=='K'){ if(m.to==0x06){ board[0x05]=board[0x07]; board[0x07]='.'; }
+                          else if(m.to==0x02){ board[0x03]=board[0x00]; board[0x00]='.'; } }
+        else if(m.moved=='k'){ if(m.to==0x76){ board[0x75]=board[0x77]; board[0x77]='.'; }
+                                else if(m.to==0x72){ board[0x73]=board[0x70]; board[0x70]='.'; } }
+    }
+
+    if(m.captured!='.' || m.moved=='P' || m.moved=='p') halfmove_clock=0; else halfmove_clock++;
+
+    if(m.moved=='K'){ castle_rights&=~(CR_WK|CR_WQ); }
+    if(m.moved=='R' && m.from==0x00){ castle_rights&=~CR_WQ; }
+    if(m.moved=='R' && m.from==0x07){ castle_rights&=~CR_WK; }
+    if(m.moved=='k'){ castle_rights&=~(CR_BK|CR_BQ); }
+    if(m.moved=='r' && m.from==0x70){ castle_rights&=~CR_BQ; }
+    if(m.moved=='r' && m.from==0x77){ castle_rights&=~CR_BK; }
+
+    if(m.captured=='r' && m.to==0x70) castle_rights&=~CR_BQ;
+    if(m.captured=='r' && m.to==0x77) castle_rights&=~CR_BK;
+    if(m.captured=='R' && m.to==0x00) castle_rights&=~CR_WQ;
+    if(m.captured=='R' && m.to==0x07) castle_rights&=~CR_WK;
+
+    if(m.moved=='P' && (m.to-m.from)==0x20) ep_target=m.from+0x10;
+    if(m.moved=='p' && (m.from-m.to)==0x20) ep_target=m.from-0x10;
+
+    side=-side; ply++; pos_hist_push();
+}
+static void unmake_move(void){
+    ply--; Move m=ustack[ply].mv;
+    side=ustack[ply].prev_side; halfmove_clock=ustack[ply].prev_halfmove;
+    castle_rights=ustack[ply].prev_castle; ep_target=ustack[ply].prev_ep;
+
+    if(m.is_castle){
+        if(m.moved=='K'){ if(m.to==0x06){ board[0x07]=board[0x05]; board[0x05]='.'; }
+                          else if(m.to==0x02){ board[0x00]=board[0x03]; board[0x03]='.'; } }
+        else if(m.moved=='k'){ if(m.to==0x76){ board[0x77]=board[0x75]; board[0x75]='.'; }
+                                else if(m.to==0x72){ board[0x70]=board[0x73]; board[0x73]='.'; } }
+    }
+    if(m.is_ep){
+        if(m.moved=='P') board[m.to-0x10]='p'; else board[m.to+0x10]='P';
+        board[m.from]=m.moved; board[m.to]='.'; if(m.promo) board[m.from]='P';
+        if(pos_hist_len>0) pos_hist_len--; return;
+    }
+    board[m.from]=m.moved; board[m.to]=ustack[ply].to_was; if(m.promo) board[m.from]=(sign(m.moved)==1)?'P':'p';
+    if(pos_hist_len>0) pos_hist_len--;
+}
+static int legal_filter(MoveList *src, MoveList *dst){
+    dst->count=0; for(int i=0;i<src->count;i++){ make_move(src->list[i]);
+        if(!in_check(-side)) dst->list[dst->count++]=src->list[i]; unmake_move(); } return dst->count;
+}
+static int evaluate(void){
+    int score=0; for(int sq=0; sq<128; sq++) if(!OFFBOARD(sq)){ char p=board[sq]; if(p!='.') score += (sign(p))*val(p); }
+    return score * (side==1?1:-1);
+}
+static Move killer1_at(int d){ return killer1[d]; }
+static int move_score(Move m, int d){
+    int s=0; if(m.captured!='.') s += 100000 + (val(m.captured) - (val(m.moved)>>3));
+    if(killer1[d].from==m.from && killer1[d].to==m.to) s += 90000;
+    if(killer2[d].from==m.from && killer2[d].to==m.to) s += 80000;
+    if(m.is_castle) s += 1000; if(m.promo) s += 5000; return s;
+}
+static void sort_moves(MoveList *ml, int d){
+    for(int i=0;i<ml->count;i++){ int best=i,sc=move_score(ml->list[i],d);
+        for(int j=i+1;j<ml->count;j++){ int scj=move_score(ml->list[j],d);
+            if(scj>sc){ best=j; sc=scj; } }
+        if(best!=i){ Move t=ml->list[i]; ml->list[i]=ml->list[best]; ml->list[best]=t; }
+    }
+}
+static int alphabeta(int depth, int alpha, int beta, int dply){
+    if(depth==0) return evaluate();
+    MoveList ml,legal; gen_moves(&ml);
+    if(!legal_filter(&ml,&legal)){ if(in_check(side)) return -INF + dply; return 0; }
+    sort_moves(&legal,dply);
+    int best=-INF, moved=0;
+    for(int i=0;i<legal.count;i++){
+        Move mv=legal.list[i]; make_move(mv);
+        int sc = -alphabeta(depth-1,-beta,-alpha,dply+1); unmake_move(); moved=1;
+        if(sc>best) best=sc; if(sc>alpha){ alpha=sc; if(alpha>=beta){
+            if(mv.captured=='.'){ if(!(killer1[dply].from==mv.from && killer1[dply].to==mv.to)){ killer2[dply]=killer1[dply]; killer1[dply]=mv; } }
+            break; } }
+    }
+    if(!moved) return evaluate(); return best;
+}
+static Move pick_move_iter(int max_depth, int *out_score){
+    Move best={0}; MoveList ml,legal; gen_moves(&ml); if(!legal_filter(&ml,&legal)) return best; sort_moves(&legal,ply);
+    int best_sc=-INF;
+    for(int d=1; d<=max_depth; d++){
+        int local_best=-INF; Move local=legal.list[0];
+        for(int i=0;i<legal.count;i++){ make_move(legal.list[i]); int sc=-alphabeta(d-1,-INF,INF,ply); unmake_move();
+            if(sc>local_best){ local_best=sc; local=legal.list[i]; } }
+        best=local; best_sc=local_best;
+        for(int i=0;i<legal.count;i++) if(legal.list[i].from==best.from && legal.list[i].to==best.to){ Move t=legal.list[0]; legal.list[0]=legal.list[i]; legal.list[i]=t; break; }
+    }
+    if(RANDOMIZE_PLAY){
+        const int DELTA=60; int *scores=(int*)malloc(sizeof(int)*legal.count); if(!scores){ if(out_score)*out_score=best_sc; return best; }
+        for(int i=0;i<legal.count;i++){ make_move(legal.list[i]); scores[i]=-alphabeta(max_depth-1,-INF,INF,ply); unmake_move(); }
+        int b=-INF; for(int i=0;i<legal.count;i++) if(scores[i]>b) b=scores[i];
+        int idxs[MAX_MOVES],k=0; for(int i=0;i<legal.count;i++) if(scores[i]>=b-DELTA) idxs[k++]=i;
+        Move chosen = legal.list[idxs[rand()%k]]; int chosen_sc = scores[idxs[k-1]]; free(scores);
+        if(out_score) *out_score=chosen_sc; return chosen;
+    } else { if(out_score) *out_score=best_sc; return best; }
+}
+
+// Printing / SAN
+static void print_board(void){
+    printf("\n   a b c d e f g h\n");
+    for(int r=7;r>=0;r--){ printf("%d  ",r+1);
+        for(int f=0;f<8;f++){ int sq=(r<<4)|f; printf("%c ",board[sq]); } printf("%d\n",r+1); }
+    printf("   a b c d e f g h\n\n");
+}
+static char filec(int f){ return 'a'+f; }
+static void build_SAN(Move m, char *out){
+    if(m.is_castle){ if(m.to==0x06||m.to==0x76){ strcpy(out,"O-O"); } else { strcpy(out,"O-O-O"); } return; }
+    char piece=m.moved; int is_pawn=(piece=='P'||piece=='p'); int capture=(m.captured!='.');
+    int ff=FILE_(m.from), rf=RANK(m.from), ft=FILE_(m.to), rt=RANK(m.to);
+    int need_file=0,need_rank=0; MoveList ml,legal; gen_moves(&ml); legal_filter(&ml,&legal);
+    for(int i=0;i<legal.count;i++){ Move x=legal.list[i]; if(x.to==m.to && x.moved==m.moved && x.from!=m.from){
+            if(FILE_(x.from)!=ff) need_file=1; if(RANK(x.from)!=rf) need_rank=1;
+            if(FILE_(x.from)==ff) need_rank=1; if(RANK(x.from)==rf) need_file=1; } }
+    char buf[64]; int pos=0;
+    if(!is_pawn){ char P=(side==1)?piece:(piece^32); buf[pos++]=P; if(need_file) buf[pos++]=filec(ff); if(need_rank) buf[pos++]=('1'+rf); }
+    else { if(capture) buf[pos++]=filec(ff); }
+    if(capture) buf[pos++]='x'; buf[pos++]=filec(ft); buf[pos++]=('1'+rt);
+    if(m.promo){ buf[pos++]='='; buf[pos++]=(side==1)?m.promo:(m.promo^32); }
+    make_move(m); int opp_in_check=in_check(side); MoveList m2,l2; gen_moves(&m2); int replies=legal_filter(&m2,&l2); unmake_move();
+    if(m.is_ep){ strcat(buf," e.p."); pos+=5; }
+    if(opp_in_check){ buf[pos++]=(replies==0)?'#':'+'; }
+    buf[pos]='\0'; strcpy(out,buf);
+}
+static int insufficient_material(void){
+    int wp=0,bp=0,wmaj=0,bmaj=0,wmin=0,bmin=0; for(int sq=0;sq<128;sq++) if(!OFFBOARD(sq)){
+        switch(board[sq]){ case 'P': wp++; break; case 'p': bp++; break; case 'R': case 'Q': wmaj++; break;
+            case 'r': case 'q': bmaj++; break; case 'N': case 'B': wmin++; break; case 'n': case 'b': bmin++; break; default: break; } }
+    return (!wp&&!bp&&!wmaj&&!bmaj && wmin<=1 && bmin<=1);
+}
+
+// Opening book (self-play only)
+static void move_to_coord4(Move m, char out[5]){
+    int ff=FILE_(m.from), rf=RANK(m.from), ft=FILE_(m.to), rt=RANK(m.to);
+    out[0]='a'+ff; out[1]='1'+rf; out[2]='a'+ft; out[3]='1'+rt; out[4]='\0';
+}
+static int find_move_by_coord(const char *uci4, Move *out){
+    MoveList ml, legal; gen_moves(&ml); if(!legal_filter(&ml,&legal)) return 0;
+    for(int i=0;i<legal.count;i++){ char buf[5]; move_to_coord4(legal.list[i],buf);
+        if(buf[0]==uci4[0]&&buf[1]==uci4[1]&&buf[2]==uci4[2]&&buf[3]==uci4[3]){ *out=legal.list[i]; return 1; } }
+    return 0;
+}
+static int try_opening_book(int fullmove_no, Move *out_move){
+    if(!USE_BOOK) return 0;
+    if(fullmove_no>4 || (rand()&1)) return 0;
+    static const char *wb[]={"e2e4","d2d4","c2c4","g1f3"};
+    static const char *bb[]={"e7e5","c7c5","e7e6","g8f6","c7c6","d7d5"};
+    const char **lst=(side==1)?wb:bb; int n=(side==1)?(int)(sizeof(wb)/sizeof(wb[0])):(int)(sizeof(bb)/sizeof(bb[0]));
+    for(int t=0;t<n;t++){ const char *pick=lst[rand()%n]; if(find_move_by_coord(pick,out_move)) return 1; } return 0;
+}
+
+// ------------ Perft ------------
+static unsigned long long perft(int depth){
+    if(depth==0) return 1ULL;
+    MoveList ml,legal; gen_moves(&ml); legal_filter(&ml,&legal);
+    unsigned long long nodes=0ULL;
+    for(int i=0;i<legal.count;i++){ make_move(legal.list[i]); nodes += perft(depth-1); unmake_move(); }
+    return nodes;
+}
+
+// ------------ UCI ------------
+static int parse_uci_move(const char *s, Move *out){
+    // expects e2e4 or e7e8q
+    int ff=s[0]-'a', rf=s[1]-'1', ft=s[2]-'a', rt=s[3]-'1';
+    if(ff<0||ff>7||ft<0||ft>7||rf<0||rf>7||rt<0||rt>7) return 0;
+    int from=(rf<<4)|ff, to=(rt<<4)|ft;
+    char promo=0;
+    if(s[4]){ char c=tolower((unsigned char)s[4]); if(c=='q'||c=='r'||c=='b'||c=='n'){ promo=(side==1)?toupper(c):c; } }
+    MoveList ml,legal; gen_moves(&ml); legal_filter(&ml,&legal);
+    for(int i=0;i<legal.count;i++){
+        Move m=legal.list[i]; if(m.from==from && m.to==to){
+            if(m.promo){ if(promo==0) continue; char want=promo;
+                // Normalize to correct color
+                if(sign(m.moved)==1 && want>='a'&&want<='z') want = toupper(want);
+                if(sign(m.moved)==-1 && want>='A'&&want<='Z') want = tolower(want);
+                if(m.promo!=want) continue;
+            }
+            *out=m; return 1;
+        }
+    }
+    return 0;
+}
+static void set_position_startpos(void){ set_initial(); pos_hist_push(); }
+static void apply_uci_moves(char *moves){
+    char *tok=strtok(moves," "); while(tok){
+        Move m; if(parse_uci_move(tok,&m)){ make_move(m); } tok=strtok(NULL," ");
+    }
+}
+static void uci_loop(void){
+    RANDOMIZE_PLAY=0; USE_BOOK=0; // deterministic for UCI
+    set_position_startpos();
+    char line[1024];
+    printf("id name tcc-mini\nid author chatgpt\nuciok\n"); fflush(stdout);
+    int search_depth=4; int pondering=0; (void)pondering;
+    while(fgets(line,sizeof(line),stdin)){
+        if(strncmp(line,"uci",3)==0){ printf("id name tcc-mini\nid author chatgpt\nuciok\n"); fflush(stdout); }
+        else if(strncmp(line,"isready",7)==0){ printf("readyok\n"); fflush(stdout); }
+        else if(strncmp(line,"ucinewgame",10)==0){ set_position_startpos(); }
+        else if(strncmp(line,"position",8)==0){
+            if(strstr(line,"startpos")){
+                set_position_startpos();
+                char *m=strstr(line,"moves");
+                if(m){ m+=5; while(*m==' ') m++; apply_uci_moves(m); }
+            } else {
+                // Minimal: ignore FEN for now, default to startpos
+                set_position_startpos();
+                char *m=strstr(line,"moves");
+                if(m){ m+=5; while(*m==' ') m++; apply_uci_moves(m); }
+            }
+        } else if(strncmp(line,"go",2)==0){
+            // parse depth/movetime (depth preferred)
+            int d=0, mt=0; char *p=line;
+            if((p=strstr(line,"depth"))){ d=atoi(p+5); }
+            if((p=strstr(line,"movetime"))){ mt=atoi(p+8); }
+            int used_depth = d>0 ? d : 4;
+            int score=0; Move best = pick_move_iter(used_depth,&score);
+            // If no legal moves, resign with "bestmove 0000"
+            if(best.from==0 && best.to==0){ printf("bestmove 0000\n"); fflush(stdout); continue; }
+            char uci[6]={0}; int ff=FILE_(best.from), rf=RANK(best.from), ft=FILE_(best.to), rt=RANK(best.to);
+            uci[0]='a'+ff; uci[1]='1'+rf; uci[2]='a'+ft; uci[3]='1'+rt;
+            if(best.promo){ char c=tolower((unsigned char)best.promo); uci[4]=c; uci[5]=0; }
+            printf("bestmove %s\n", uci); fflush(stdout);
+        } else if(strncmp(line,"stop",4)==0){
+            // no async search, nothing to stop
+        } else if(strncmp(line,"quit",4)==0){
+            break;
+        }
+    }
+}
+
+// ------------ Self-play main ------------
+int main(int argc, char**argv){
+    if(argc>=2 && strcmp(argv[1],"uci")==0){ uci_loop(); return 0; }
+    if(argc>=3 && strcmp(argv[1],"perft")==0){
+        int d=atoi(argv[2]); set_initial(); pos_hist_push();
+        unsigned long long n=perft(d);
+        printf("perft %d: %llu\n", d, n);
+        return 0;
+    }
+
+    // Self-play (randomized)
+    RANDOMIZE_PLAY=1; USE_BOOK=1;
+    struct timeval tv; gettimeofday(&tv,NULL);
+    unsigned seed=(unsigned)time(NULL) ^ (unsigned)getpid() ^ (unsigned)tv.tv_usec;
+    srand(seed);
+
+    set_initial(); pos_hist_push();
+    printf("tcc Chess — self-play (SAN, castling/EP, ID+killers, FIDE 3-fold, randomized)\n");
+    print_board();
+
+    int move_no=1, max_full=200;
+    while(move_no<=max_full){
+        MoveList ml, legal; gen_moves(&ml);
+        if(!legal_filter(&ml,&legal)){ if(in_check(side)) printf("%s is checkmated. %s wins.\n", side==1?"White":"Black", side==1?"Black":"White"); else printf("Stalemate.\n"); break; }
+
+        Move bookmv;
+        if(try_opening_book(move_no,&bookmv)){
+            char san[80]; build_SAN(bookmv,san); make_move(bookmv);
+            if(side==-1) printf("%d. %s\n", move_no, san); else printf("%d... %s\n", move_no, san);
+            if(side==1) move_no++;
+            if(halfmove_clock>=100){ const char* r[]={"Draw by 50-move rule.","Players agreed to a draw.","Flag fell in equal endgame—draw.","Threefold-ish vibes—draw declared."}; printf("%s\n", r[rand()%4]); break; }
+            if(is_threefold_now()){ const char* t[]={"Draw by threefold repetition.","Position repeated thrice—draw.","Loop detected—draw.","Same position again—draw."}; printf("%s\n", t[rand()%4]); break; }
+            if(insufficient_material()){ const char* t[]={"Draw by insufficient material.","Dead position—draw.","Kings dance alone—draw.","No mating net possible—draw."}; printf("%s\n", t[rand()%4]); break; }
+            continue;
+        }
+
+        int score_cp=0; Move best=pick_move_iter(4,&score_cp);
+        if(move_no>=24){ int lose_thresh=-800; int losing=(score_cp<=lose_thresh); if(losing && (rand()%40==0)){ printf("%s resigns. %s wins.\n", side==1?"White":"Black", side==1?"Black":"White"); break; } }
+
+        char san[80]; build_SAN(best,san); make_move(best);
+        if(side==-1) printf("%d. %s\n", move_no, san); else printf("%d... %s\n", move_no, san);
+        if(side==1) move_no++;
+
+        if(halfmove_clock>=100){ const char* reasons[]={"Draw by 50-move rule.","Players agreed to a draw.","Flag fell in equal endgame—draw.","Threefold-ish vibes—draw declared."}; printf("%s\n", reasons[rand()%4]); break; }
+        if(is_threefold_now()){ const char* texts[]={"Draw by threefold repetition.","Position repeated thrice—draw.","Loop detected—draw.","Same position again—draw."}; printf("%s\n", texts[rand()%4]); break; }
+        if(insufficient_material()){ const char* texts[]={"Draw by insufficient material.","Dead position—draw.","Kings dance alone—draw.","No mating net possible—draw."}; printf("%s\n", texts[rand()%4]); break; }
+    }
+
+    print_board();
+    int eval=evaluate(); if(eval>120) printf("White is better (%d cp).\n", eval);
+    else if(eval<-120) printf("Black is better (%d cp).\n", eval);
+    else printf("Roughly equal (%d cp).\n", eval);
+    return 0;
+}
+(base) ian-martin-ajzenszmidt@ian-martin-ajzenszmidt-CFSZ5-3:~/Downloads$ 
